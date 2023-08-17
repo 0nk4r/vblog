@@ -1,8 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Po🐼 \n{Onkar}",
-    image: "https://ibb.co/1KtkWCG", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Po🐼               \r\n{Onkar}",
+    image: "https://i.ibb.co/7Vdqm3t/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Security Engineer",
     bio: "I hack things",
     email: "pxphacks@gmail.com",
