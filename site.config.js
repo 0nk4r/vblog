@@ -1,19 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "2mook2",
+    name: "0nk4r",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "이무기",
-    bio: "용이 될 거야",
-    email: "2moook2@gmail.com",
-    linkedin: "",
-    github: "2mook2",
+    role: "Security Engineer",
+    bio: "I hack things",
+    email: "0nk4r.sec@gmail.com",
+    linkedin: "0nkar.k",
+    github: "0nk4r",
     instagram: "",
   },
   projects: [
     {
-      name: `Dementia_Analysis`,
-      href: "https://github.com/2mook2/Dementia_Analysis",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "2mook2/morethan-log",
+      repo: "0nk4r/vblog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
