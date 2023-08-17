@@ -18,18 +18,18 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "2mook2 의 승천일지",
-    description: "2mook2 의 승천일지",
+    title: "PXP Hacks",
+    description: "Let's Hack and build some stuff",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://2mook2.vercel.app",
+  link: "https://pxphacks.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Notion","Hardware Hacking","Hacking"],
   },
 
   // notion configuration (required)
