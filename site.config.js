@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "0nk4r",
+    name: "Po🐼",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Security Engineer",
     bio: "I hack things",
-    email: "0nk4r.sec@gmail.com",
+    email: "pxphacks@gmail.com",
     linkedin: "0nkar.k",
     github: "0nk4r",
     instagram: "",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "PXP Hacks",
+    title: "Po's Blog🐼",
     description: "Let's Hack and build some stuff",
     theme: "auto", // ['light', 'dark', 'auto']
   },
