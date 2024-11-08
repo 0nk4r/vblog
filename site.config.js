@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "",
-    image: "https://i.ibb.co/Dbq8CkS/ezgif-3-df0faf1e83.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://i.ibb.co/yghkHCy/Onkar-Koli-2.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Security Engineer",
     bio: "I hack things",
     email: "onkar0x2@gmail.com",
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Onkar Koli",
     description: "Let's Hack and build some stuff",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
